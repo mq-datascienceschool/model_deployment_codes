@@ -7,10 +7,10 @@ from setuptools import find_packages, setup
 
 # Package meta-data.
 NAME = 'tid-regression-model'
-DESCRIPTION = "Example regression model package from Train In Data."
-URL = "https://github.com/trainindata/testing-and-monitoring-ml-deployments"
-EMAIL = "christopher.samiullah@protonmail.com"
-AUTHOR = "ChristopherGS"
+DESCRIPTION = "Example regression model package"
+URL = "https://github.com/mq-datascienceschool/model_deployment_codes"
+EMAIL = "matrixquantic@gmail.com"
+AUTHOR = "SomyaRai"
 REQUIRES_PYTHON = ">=3.6.0"
 
 

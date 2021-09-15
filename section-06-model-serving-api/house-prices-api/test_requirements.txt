@@ -2,6 +2,8 @@
 
 # testing requirements
 pytest>=6.2.3,<6.3.0
+
+# required by FastAPI test client
 requests>=2.23.0,<2.24.0
 
 # repo maintenance tooling
